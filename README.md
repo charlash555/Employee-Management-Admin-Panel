@@ -38,6 +38,14 @@ Employee Form Component:
 
 Form for adding or editing employee details.
 
+## project photos
+![Screenshot (918)](https://github.com/user-attachments/assets/df0425ed-6c13-411a-8129-db4fb7caa7ef)
+![Screenshot (919)](https://github.com/user-attachments/assets/6282142d-05de-46c8-b9a0-d6bc09b2783f)
+![Screenshot (915)](https://github.com/user-attachments/assets/02849b77-b528-4a93-b1e3-2040269ae191)
+![Screenshot (916)](https://github.com/user-attachments/assets/ed8d1f45-4eb4-4f78-9d6f-aacc94ba7b97)
+
+
+
 
 # End Points
 ### Login
