@@ -8,11 +8,11 @@ pipeline {
             }
         }
 
-        stage('Install Dependencies') {
-            steps {
-                sh 'npm install'
-            }
-        }
+      stage('Install Dependencies') {
+    steps {
+        sh 'cd Employee-Management-Admin-Panel && npm install'
+    }
+}
 
         stage('Run Tests') {
             steps {
